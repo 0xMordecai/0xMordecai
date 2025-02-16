@@ -15,6 +15,10 @@ I am a passionate **Smart Contract Developer** specializing in **Solidity**. I e
 ### 🎯 Currently Learning  
 I'm currently diving deep into **advanced Foundry framework**, exploring its powerful testing suite, fuzzing, and automation capabilities to enhance my Solidity development workflow.  
 
+### 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xMordecai&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xMordecai&layout=compact&theme=radical)  
+
 
 
 🚀 **Let's build the decentralized future together!**  
