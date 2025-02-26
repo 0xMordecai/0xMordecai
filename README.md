@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm a Smart Contract Developer  
+# Hi there! 👋 I'm a Smart Contract Developer | security researcher
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xMordecai&label=Profile%20Views&color=blue&style=flat)  
 
