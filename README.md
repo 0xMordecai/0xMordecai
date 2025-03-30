@@ -12,7 +12,7 @@ I am a passionate **Smart Contract Developer** specializing in **Solidity**. I e
 - **Testing & Security:** Forge  
 
 ## 🌱 Currently Learning  
-I’m currently diving deep into **advanced Foundry framework**, exploring its powerful testing suite, fuzzing, and automation capabilities to enhance my Solidity development workflow.  
+I’m currently diving deep into **Foundry framework**, exploring its powerful testing suite, fuzzing, and automation capabilities to enhance my Solidity development workflow.  
 
 ## ❌ Things I Avoid  
 - ~~Writing unoptimized smart contracts~~  
