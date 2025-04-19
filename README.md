@@ -12,7 +12,7 @@ I am a passionate **Smart Contract Developer** specializing in **Solidity**. I e
 - **Testing & Security:** Forge  
 
 ## 🌱 Currently Learning  
-I’m currently diving deep into **Uniswap V2 Dex Protocol**,and I'm working on rewrite it modern Solidity,within this advanture I will discover how **Dex Protocols Math** works.
+I’m currently diving deep into **Uniswap V2 Dex Protocol**,and I'm working on rewrite it in modern Solidity,within this advanture I will discover how **Dex Protocols Math** works.
 
 ## ❌ Things I Avoid  
 - ~~Writing unoptimized smart contracts~~  
