@@ -9,7 +9,7 @@ I am a passionate **Smart Contract Developer** specializing in **Solidity**. I e
 - **Languages:** Solidity, JavaScript  
 - **Blockchain:** Ethereum, Polygon, Binance Smart Chain (BSC), Arbitrum  
 - **Frameworks & Tools:** Foundry, OpenZeppelin  
-- **Testing & Security:** Forge  
+- **Testing & Security:** Forge, slither
 
 ## 🌱 Currently Learning  
 I’m currently diving deep into **Uniswap V2 Dex Protocol**,and I'm working on rewrite it in modern Solidity,within this advanture I will discover how **Dex Protocols Math** works, And trying to figure out how to rewrite **typeScript** test suite to **solidity**.
