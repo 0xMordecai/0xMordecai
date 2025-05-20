@@ -1,16 +1,6 @@
-# Hi there! 👋 I'm a Smart Contract Developer
+# Hi there! 👋 I'm Rethinking again 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xMordecai&label=Profile%20Views&color=blue&style=flat)  
-
-## 💻 About Me  
-I am a passionate **Smart Contract Developer** specializing in **Solidity**. I enjoy building secure, efficient, and scalable blockchain applications on **Ethereum** and other EVM-compatible chains. My focus is on writing clean, optimized, and well-documented smart contracts.  
-
-## 🔧 Tech Stack  
-- **Languages:** Solidity, JavaScript  
-- **Blockchain:** Ethereum, Polygon, Binance Smart Chain (BSC), Arbitrum  
-- **Frameworks & Tools:** Foundry, OpenZeppelin  
-- **Testing & Security:** Forge, slither
-
 
 ## 📊 GitHub Stats  
 <div align="center">
@@ -19,5 +9,3 @@ I am a passionate **Smart Contract Developer** specializing in **Solidity**. I e
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xMordecai&theme=radical" height="180px"/>
 </div>  
-
-🚀 **Let's build the decentralized future together!**  
