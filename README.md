@@ -1,5 +1,3 @@
-# Hi there! 👋 I'm Rethinking again 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=0xMordecai&label=Profile%20Views&color=blue&style=flat)  
 
 ## 📊 GitHub Stats  
