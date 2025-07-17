@@ -1,5 +1,5 @@
-![Profile Views](https://komarev.com/ghpvc/?username=0xMordecai&label=Profile%20Views&color=blue&style=flat)  
-<div align="center"> I Love Coding </div>7
+<div align="center">![Profile Views](https://komarev.com/ghpvc/?username=0xMordecai&label=Profile%20Views&color=blue&style=flat)  </div>
+<div align="center"> I Love Coding </div>
 
 ## 📊 GitHub Stats
  
