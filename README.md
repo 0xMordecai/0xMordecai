@@ -1,6 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=0xMordecai&label=Profile%20Views&color=blue&style=flat)  
 <div align="center"> I Love Coding </div>
-## 📊 GitHub Stats  
+<div align="center">## 📊 GitHub Stats </div>
+ 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xMordecai&show_icons=true&theme=radical" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMordecai&layout=compact&theme=radical" height="180px"/>
