@@ -5,7 +5,7 @@
 <div align="center"> I Love Coding.</div>
 <div align="center">
  
-## 📊 GitHub Stats
+## 📊 GitHub Status
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xMordecai&show_icons=true&theme=radical" height="180px" width="370px"/>
