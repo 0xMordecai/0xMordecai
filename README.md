@@ -6,7 +6,7 @@
 <div align="center">
  
 ## 📊 GitHub Status
-</div>
+</div> 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xMordecai&show_icons=true&theme=radical" height="180px" width="370px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xMordecai&theme=radical" height="250px" width="392px"/>
