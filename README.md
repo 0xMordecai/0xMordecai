@@ -2,7 +2,16 @@
  
  ![Profile Views](https://komarev.com/ghpvc/?username=0xMordecai&label=Profile%20Views&color=blue&style=flat)  
 </div>
-💻 **"Test-Driven Development Is My Ninja Way."** 🥷
+
+<div align="center">
+╔═══════════════════════════════════════════════╗
+║                                               ║
+║   💻 "Test-Driven Development Is My Ninja Way." 🥷   ║
+║                                               ║
+║                — @YourUsername                ║
+╚═══════════════════════════════════════════════╝
+</div>
+
 
 <div align="center">
    
