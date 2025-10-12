@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
- 💻 "Test-Driven Development Is My Ninja Way. 🥷
+ 💻 Test-Driven Development Is My Ninja Way. 🥷
 </div>
 
 
