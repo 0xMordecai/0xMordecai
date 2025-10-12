@@ -4,12 +4,7 @@
 </div>
 
 <div align="center">
-╔═══════════════════════════════════════════════╗
-║                                               ║
-║   💻 "Test-Driven Development Is My Ninja Way." 🥷   ║
-║                                               ║
-║                — @YourUsername                ║
-╚═══════════════════════════════════════════════╝
+ 💻 "Test-Driven Development Is My Ninja Way. 🥷
 </div>
 
 
