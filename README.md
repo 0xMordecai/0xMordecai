@@ -19,3 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMordecai&layout=compact&theme=tokyonight&hide_border=true" height="180px" width="370px"/>
 </div>  
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=0xmordecai&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
