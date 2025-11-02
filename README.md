@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
  
  ![Profile Views](https://komarev.com/ghpvc/?username=0xMordecai&label=Profile%20Views&color=blue&style=flat)  
 </div>
