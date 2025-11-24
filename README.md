@@ -10,7 +10,7 @@
 
 <div align="center">
    
-## 📊 GitHub Status   
+## 📊 GitHub Status
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xMordecai&show_icons=true&theme=tokyonight&hide_border=true" height="180px"  width="370px"/>
