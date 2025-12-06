@@ -13,10 +13,10 @@
 ## 📊 GitHub Status
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xMordecai&show_icons=true&theme=tokyonight&hide_border=true" height="180px"  width="370px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xMordecai&theme=tokyonight&hide_border=true" height="250px" width="392px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0xMordecai&show_icons=true&theme=shades-of-purple&hide_border=true" height="180px"  width="370px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xMordecai&theme=shades-of-purple&hide_border=true" height="250px" width="392px"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMordecai&layout=compact&theme=tokyonight&hide_border=true" height="180px" width="370px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMordecai&layout=compact&theme=shades-of-purple&hide_border=true" height="180px" width="370px"/>
 </div>  
 
 ## 🏆 GitHub Trophies
