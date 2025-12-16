@@ -9,8 +9,8 @@
 
 
 <div align="center">
-   
-## 📊 GitHub Status
+  
+## 📊 GitHub Stats
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xMordecai&show_icons=true&theme=shades-of-purple&hide_border=true" height="180px"  width="370px"/>
