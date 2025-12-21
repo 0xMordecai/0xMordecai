@@ -21,7 +21,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=0xmordecai&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=0xMordecai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 💻 Tech Stack:
 
