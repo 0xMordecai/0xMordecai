@@ -13,8 +13,6 @@
 ## 📊 GitHub Stats
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xMordecai&theme=shades-of-purple&hide_border=true" height="250px" width="394px"/>
-  <br/>
  <img src="https://github-readme-stats.vercel.app/api?username=0xMordecai&show_icons=true&theme=shades-of-purple&hide_border=true" height="180px"  width="370px"/>
 </div>  
 
