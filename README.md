@@ -13,7 +13,7 @@
 ## 📊 GitHub Stats
 </div>
 <div align="center">
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xmordecai&show_icons=true&locale=en" alt="0xmordecai" /></p>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 </div>  
 
 
