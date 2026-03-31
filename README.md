@@ -10,12 +10,6 @@
 
 <div align="center">
   
-##  Let's go 
-</div>
-<div align="center">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> </p>
-</div>  
 
 
 ## 💻 Tech Stack:
