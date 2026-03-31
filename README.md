@@ -13,8 +13,7 @@
 ## 📊 GitHub Stats
 </div>
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=0xMordecai&show_icons=true&theme=shades-of-purple&hide_border=true" height="180px"  width="370px"/>
-
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xmordecai&show_icons=true&locale=en" alt="0xmordecai" /></p>
 </div>  
 
 
